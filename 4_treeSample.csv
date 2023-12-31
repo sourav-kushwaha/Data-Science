@@ -1,0 +1,10 @@
+marital_status,education,capital
+married,high_school,50000
+single,college,80000
+married,masters,120000
+divorced,high_school,30000
+single,phd,150000
+married,college,75000
+single,bachelors,60000
+divorced,masters,110000
+married,phd,140000
